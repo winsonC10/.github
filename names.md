@@ -12,7 +12,7 @@
 |Dino Efstathiou  |Askizye|Advanced|
 |Hagop Khoshafian | | |
 |Ouen Rambaud | | |
-|Winson Cheng | winsonC10| Advanced Team|
+|Winson Cheng | winsonC10| Intermediate Team|
 |Rhys Caie Corpuz Camayang  | RhysssPuffsss | Advanced Team |
 |Alexia Lee | | |
 |Anna Kim |nabillyx|beginner|
